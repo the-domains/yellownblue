@@ -1,0 +1,14 @@
+color:
+  brandColors:
+    - '#A690A4'
+    - '#B68F9D'
+    - '#C8ACAB'
+    - '#FBB9BF'
+    - '#E376B7'
+  brandStrength: 0.511631459085554
+  lightness: 0.429558338390978
+  rhythmicContrast: 0.15963264421487766
+  saturation: 0.1438078127967013
+layout_spectrum: 0.21136880416535053
+name: yellowNblue
+typography_spectrum: 0.4964391212520197
